@@ -71,12 +71,12 @@ To run CodeSense AI locally, follow these steps:
 
 Clone the repository
 
-git clone https://github.com/Anumishra02/code-reviewer.git
+git clone https://github.com/Anumishra02/CodeSense-AI.git
 
 
 Navigate to the project directory
 
-cd code-reviewer
+cd CodeSense-AI
 
 
 Install dependencies
