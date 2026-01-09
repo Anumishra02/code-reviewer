@@ -1,44 +1,39 @@
-CodeSense AI
+<h1 align="center">CodeSense AI</h1>
+<p align="center"><b>AI-Powered Code Review Platform</b></p>
 
-AI-Powered Code Review Platform
 
 Welcome to CodeSense AI, an intelligent full-stack application designed to analyze user-submitted source code and generate actionable improvement suggestions using AI-based logic. The project demonstrates modern full stack software engineering practices with a strong focus on scalability, performance, and clean architecture.
 
 Table of Contents
 
-Introduction
+## Introduction
+## Features
+## Technologies Used
+## Setup Instructions
+## Usage
+## Contributing
 
-Features
-
-Technologies Used
-
-Setup Instructions
-
-Usage
-
-Contributing
-
-Introduction
+##Introduction
 
 CodeSense AI is a full-stack web application built to assist developers in improving code quality. Users can submit their code, which is then processed through backend services and analyzed using AI-driven logic to provide structured feedback and optimization suggestions.
 
 The project emphasizes modular design, RESTful API architecture, and reliable system performance, making it suitable for real-world software engineering workflows.
 
-Features
+## 🚀 Features
 
-AI-Based Code Analysis: Automatically analyzes submitted code and generates improvement suggestions.
+-AI-Based Code Analysis: Automatically analyzes submitted code and generates improvement suggestions.
 
-RESTful API Architecture: Clean and scalable APIs for code submission, processing, and response delivery.
+-RESTful API Architecture: Clean and scalable APIs for code submission, processing, and response delivery.
 
-Low-Latency Processing: Optimized request handling to ensure fast response times.
+-Low-Latency Processing: Optimized request handling to ensure fast response times.
 
-Modular & Clean Architecture: Well-structured backend design for maintainability and extensibility.
+-Modular & Clean Architecture: Well-structured backend design for maintainability and extensibility.
 
-Testing & Debugging Workflows: Ensures system reliability and consistent output accuracy.
+-Testing & Debugging Workflows: Ensures system reliability and consistent output accuracy.
 
-Developer-Friendly Interface: Simple and intuitive UI for submitting and reviewing code feedback.
+-Developer-Friendly Interface: Simple and intuitive UI for submitting and reviewing code feedback.
 
-Technologies Used
+## 🛠 Technologies Used
 Frontend
 
 React.js
