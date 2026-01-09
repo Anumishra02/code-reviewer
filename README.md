@@ -13,11 +13,13 @@ Table of Contents
 ## Usage
 ## Contributing
 
-##Introduction
+
+## Introduction
 
 CodeSense AI is a full-stack web application built to assist developers in improving code quality. Users can submit their code, which is then processed through backend services and analyzed using AI-driven logic to provide structured feedback and optimization suggestions.
 
 The project emphasizes modular design, RESTful API architecture, and reliable system performance, making it suitable for real-world software engineering workflows.
+
 
 ## 🚀 Features
 
@@ -32,6 +34,7 @@ The project emphasizes modular design, RESTful API architecture, and reliable sy
 -Testing & Debugging Workflows: Ensures system reliability and consistent output accuracy.
 
 -Developer-Friendly Interface: Simple and intuitive UI for submitting and reviewing code feedback.
+
 
 ## 🛠 Technologies Used
 Frontend
