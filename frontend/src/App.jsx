@@ -14,7 +14,7 @@ import 'highlight.js/styles/github-dark.css';
 import axios from 'axios';
 import './App.css';
 
-const API = 'http://localhost:3000';
+const API = 'https://codesense-backend-0ecb.onrender.com';
 const LANGUAGES = ['javascript','python','java','c','cpp'];
 const LANG_LABELS = { javascript:'JS', python:'PY', java:'Java', c:'C', cpp:'C++' };
 const DEFAULT_CODE = `// Paste your code here or import from GitHub
